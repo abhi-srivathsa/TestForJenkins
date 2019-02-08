@@ -4,6 +4,7 @@
   <groupId>com.example.bank</groupId>
   <artifactId>OracleBanking</artifactId>
   <packaging>jar</packaging>
+  <!-- comment -->
   <version>1.0-SNAPSHOT</version>
   <name>OracleBanking</name>
   <url>http://maven.apache.org</url>
